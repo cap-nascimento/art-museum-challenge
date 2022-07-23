@@ -1,7 +1,7 @@
 ### Art Museum Challenge
 
 - This is a web development challenge. Basically, you'll build a complete system to retrieve and show data about art.
-- By 'art' I mean paitings, sculptures photos and all sorts of things that you can do with the API you choose.
+- By 'art' I mean paintings, sculptures photos and all sorts of things that you can do with the API you choose.
 
 ##### Constraints
 
